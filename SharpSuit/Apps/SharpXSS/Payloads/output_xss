@@ -1,0 +1,1 @@
+<audio onerror="alert('XSS')" src="invalid.mp3"></audio>
