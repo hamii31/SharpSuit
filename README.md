@@ -1,6 +1,6 @@
 # SharpSuit
 
-The hub for all of the cybersecurity tools I create.
+The hub for all of the cybersecurity tools I have created.
 
 ## Table of Contents
 
