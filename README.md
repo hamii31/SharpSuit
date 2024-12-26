@@ -18,10 +18,12 @@ through which I can utilize all of them whenever I wanted to, instead of looking
 
 ## Features
 
-List the main features of your project. Use bullet points for clarity:
-- Feature 1: Brief description
-- Feature 2: Brief description
-- Feature 3: Brief description
+- Feature 0: SharpSuit - The headmaster of the tools.
+- Feature 1: SharpXSS - A web application XSS vulnerability detection tool. It's the tool I made to earn a
+verified HarvardX certificate. 
+- Feature 2: SharpSniffer - A package sniffing and (soon to be) analysing tool that also captures
+local network devices.
+- Feature 3: Soon...
 
 ## Technologies Used
 
